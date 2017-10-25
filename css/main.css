@@ -1,0 +1,37 @@
+*{
+	margin-left:5px;
+	margin.top:10px;
+	margin-right: 10px;
+}
+li{
+  line-style:none;
+  text-decoration-color: rgb(0,2,6);
+  font-family: 'Pt Sans Narrow', sans-serif;
+}
+a{
+  text-decoration: none;
+}
+ul{
+	list-style:none;
+}
+progress{
+	color:yellow;
+}
+h2{
+	text-align: center;
+	font-family: 'Signika', sans-serif;
+}
+.desplegable{
+	color:green;
+	text-decoration: none;
+}
+li ul li{
+	color:blue;
+}
+.menu{
+	color:red;
+	text-decoration: none;
+}
+label{
+	text-align: right;
+}
